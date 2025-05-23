@@ -12,27 +12,22 @@ authors:
     affiliation: University of Exeter
     orcid: 0000-0002-0148-935X
     email: tl493@exeter.ac.uk
-    website: https://github.com/timo0thy
   - family-names: Kretschmer
     given-names: Marlene
     affiliation: University of Reading
     orcid: 0000-0002-2756-9526
-    website: https://github.com/MarleneKretschmer
   - family-names: Adams
     given-names: Samantha
     affiliation: Met Office
     orcid: 0000-0003-3031-4855
-    website: https://github.com/svadams
   - family-names: Prudden
     given-names: Rachel
     affiliation: Met Office
     orcid: 0000-0001-9672-3489
-    website: https://github.com/RPrudden
   - family-names: Saggioro
     given-names: Elena
     affiliation: University of Reading
     orcid: 0000-0002-9543-6338
-    website: https://github.com/RPrudden
 date-released: '2024-09-13'
 contact:
   - family-names: Lam
@@ -40,10 +35,10 @@ contact:
     affiliation: University of Exeter
     orcid: 0000-0002-0148-935X
     email: tl493@exeter.ac.uk
-    website: https://github.com/timo0thy
 identifiers:
-  - type: doi
-    value: 10.5281/zenodo.8311360
+  - description: Open review report for this notebook
+    type: url
+    value: https://github.com/eds-book/ea34568e-d86e-4720-be2f-3f826f66a26c/pull/1
 keywords:
   - Atmosphere
   - Preprocessing
@@ -53,4 +48,4 @@ license: MIT
 license-url: https://opensource.org/license/MIT
 repository: https://github.com/eds-book/ea34568e-d86e-4720-be2f-3f826f66a26c
 type: software
-version: v2.0.0
+version: v2025.05.0
