@@ -13,7 +13,7 @@ project:
       orcid: 0000-0002-0148-935X
       corresponding: true
       email: tl493@exeter.ac.uk
-      url: https://github.com/timo0thy
+      github: timo0thy
       roles:
         - Investigation
         - Software
@@ -23,7 +23,7 @@ project:
     - id: mkretschmer
       name: Marlene Kretschmer
       orcid: 0000-0002-2756-9526
-      url: https://github.com/MarleneKretschmer
+      github: MarleneKretschmer
       roles:
         - Investigation
         - Software
@@ -33,7 +33,7 @@ project:
     - id: sadams
       name: Samantha Adams
       orcid: 0000-0003-3031-4855
-      url: https://github.com/svadams
+      github: svadams
       roles:
         - Investigation
         - Software
@@ -43,7 +43,7 @@ project:
     - id: rprudden
       name: Rachel Prudden
       orcid: 0000-0001-9672-3489
-      url: https://github.com/RPrudden
+      github: RPrudden
       roles:
         - Investigation
         - Software
@@ -53,7 +53,7 @@ project:
     - id: esaggioro
       name: Elena Saggioro
       orcid: 0000-0002-9543-6338
-      url: https://github.com/RPrudden
+      github: ESaggioro
       roles:
         - Investigation
         - Software
@@ -63,7 +63,7 @@ project:
   reviewers:
     - id: nhomer
       name: Nick Homer
-      url: https://github.com/NHomer
+      github: NHomer
       roles:
         - Writing – review & editing
       affiliations:
@@ -71,7 +71,7 @@ project:
     - id: acoca
       name: Alejandro Coca-Castro
       orcid: 0000-0002-9264-1539
-      url: https://github.com/acocac
+      github: acocac
       roles:
         - Writing – review & editing
       affiliations:
